@@ -1,0 +1,19 @@
+*{box-sizing: border-box;}
+
+:root{
+    --navBGcolor:#3cc3b5;
+    --mainBGcolor: #3cc3b5;
+    --buttonBGcolor: #44bc93;
+    --colophonBGcolor: #2ca699;
+}
+
+/* generic */
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.inner {
+    margin: 0 auto;
+    width: 80%;
